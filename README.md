@@ -2,7 +2,7 @@
  ## <h3>🚀 About Me</h3>
    <h4 align="left">Hello Team  👋, <br>I'm <span style="color:red;">Abhinav Shankar</span> with Passion & Enthusiastic for Java || Springboot || AWS and SAP Hybris Commerce  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h4>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Scalable%20Application+Developer;Deep+Learning+Developer;%20%20Designing%20|%20Algorithms%20|%20%20Object%20Orientation%20;Always%20learning%20new%20things%20with%20advance%20passion&amp;center=true&amp;width=990&amp;height=50"&color=#f75c7e&v></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Scalable%20Application+Developer;Deep+Learning+Developer;%20%20Designing%20|%20Algorithms%20|%20%20Object%20Orientation%20;Always%20learning%20new%20things%20with%20advance%20passion&amp;center=true&amp;width=990&amp;height=50"&color=#f75c7e&vCenter=true&pause=1000&size=17>"</a>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
