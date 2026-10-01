@@ -2,12 +2,12 @@
  ## <h3>🚀 About Me</h3>
    <h4 align="left">Hello Team  👋, <br>I'm <span style="color:red;">Abhinav Shankar</span> with Passion & Enthusiastic for Java || Springboot || AWS and SAP Hybris Commerce  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h4>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Scalable%20Application+Developer;Deep+Learning+Developer;%20%20Designing%20|%20Algorithms%20|%20%20Object%20Orientation%20;Always%20learning%20new%20things%20with%20advance%20passion&amp;center=true&amp;width=990&amp;height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Scalable%20Application+Developer;Deep+Learning+Developer;%20%20Designing%20|%20Algorithms%20|%20%20Object%20Orientation%20;Always%20learning%20new%20things%20with%20advance%20passion&amp;center=true&amp;width=990&amp;height=50"&color=f75c7e&v></a>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack-Web+Backend%20and%20App%20Developer;Experienced%20Backend%2FUX%20Designer;12+%2B%20years%20of%20coding+designing%20experience;Always%20Passinate%20new%20about%20Technlogy&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack-Web+Backend%20and%20App%20Developer;Experienced%20Backend%2FUX%20Designer;12+%2B%20years%20of%20coding+designing%20experience;Always%20Passinate%20new%20about%20Technlogy&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&pause=1000&size=17" /></a>
 </p>
 
 ## <h3> ![work](https://github.com/user-attachments/assets/c26ee788-886b-46be-9085-42f72617f86e) Current Work---> [Hybris-API-Connector](https://github.com/AbhinavShankars/SAP-Commerce-API-Connect-6.7) <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/05/sap-hybris-logo-600x117.png" alt="sapHybris" width="100" height="30"/> </h3> 
