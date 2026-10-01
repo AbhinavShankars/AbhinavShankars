@@ -2,7 +2,7 @@
  ## <h3>🚀 About Me</h3>
    <h4 align="left">Hello Team  👋, <br>I'm Abhinav Shankar with Passion & Enthusiastic for Java || Springboot || AWS and SAP Hybris Commerce  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h4>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Application+Developer;Deep+Learning+Developer;Design Pattern%70|%70Algorithms%20|%20OOP%20;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Application+Developer;Deep+Learning+Developer;Designing%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
 
 ## <h3> ![work](https://github.com/user-attachments/assets/c26ee788-886b-46be-9085-42f72617f86e) Current Work---> [Hybris-API-Connector](https://github.com/AbhinavShankars/SAP-Commerce-API-Connect-6.7) <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/05/sap-hybris-logo-600x117.png" alt="sapHybris" width="100" height="30"/> </h3> 
