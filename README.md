@@ -1,6 +1,6 @@
 
  ## <h3>🚀 About Me</h3>
-   <h4 align="center">Hello Team  👋, <br>I'm Abhinav Shankar with Passion & Enthusiastic for Java || Springboot || AWS and SAP Hybris Commerce 🌱 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h4>
+   <h4 align="left">Hello Team  👋, <br>I'm Abhinav Shankar with Passion & Enthusiastic for Java || Springboot || AWS and SAP Hybris Commerce 🌱 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h4>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Creator;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
